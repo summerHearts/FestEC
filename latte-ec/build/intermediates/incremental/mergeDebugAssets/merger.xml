@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/Kenvin/AndroidStudioProjects/FestEC/latte-ec/src/main/assets"/><source path="/Users/Kenvin/AndroidStudioProjects/FestEC/latte-ec/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/Kenvin/AndroidStudioProjects/FestEC/latte-ec/src/debug/assets"/></dataSet></merger>

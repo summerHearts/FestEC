@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/Kenvin/AndroidStudioProjects/FestEC/latte-core/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/Kenvin/.android/build-cache/fbfe827b7be8bbdf5a59872eeaec567edbd76610/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/Kenvin/AndroidStudioProjects/FestEC/latte-core/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/Kenvin/.android/build-cache/fbfe827b7be8bbdf5a59872eeaec567edbd76610/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/Kenvin/AndroidStudioProjects/FestEC/latte-core/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/Kenvin/.android/build-cache/fbfe827b7be8bbdf5a59872eeaec567edbd76610/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/Kenvin/AndroidStudioProjects/FestEC/latte-core/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/Kenvin/.android/build-cache/fbfe827b7be8bbdf5a59872eeaec567edbd76610/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/Kenvin/AndroidStudioProjects/FestEC/latte-core/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/Kenvin/.android/build-cache/fbfe827b7be8bbdf5a59872eeaec567edbd76610/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/Kenvin/AndroidStudioProjects/FestEC/latte-core/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/Kenvin/.android/build-cache/fbfe827b7be8bbdf5a59872eeaec567edbd76610/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Kenvin/AndroidStudioProjects/FestEC/latte-core/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/Kenvin/.android/build-cache/fbfe827b7be8bbdf5a59872eeaec567edbd76610/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Kenvin/AndroidStudioProjects/FestEC/latte-core/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/Kenvin/.android/build-cache/fbfe827b7be8bbdf5a59872eeaec567edbd76610/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Kenvin/AndroidStudioProjects/FestEC/latte-core/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/Kenvin/.android/build-cache/fbfe827b7be8bbdf5a59872eeaec567edbd76610/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Kenvin/AndroidStudioProjects/FestEC/latte-core/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/Kenvin/.android/build-cache/fbfe827b7be8bbdf5a59872eeaec567edbd76610/output/res/anim/abc_slide_out_top.xml"
+    }
+]

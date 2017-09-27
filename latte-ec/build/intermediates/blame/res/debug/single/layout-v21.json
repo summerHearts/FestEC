@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Kenvin/AndroidStudioProjects/FestEC/latte-ec/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Kenvin/.android/build-cache/fbfe827b7be8bbdf5a59872eeaec567edbd76610/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Kenvin/AndroidStudioProjects/FestEC/latte-ec/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Kenvin/.android/build-cache/fbfe827b7be8bbdf5a59872eeaec567edbd76610/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Kenvin/AndroidStudioProjects/FestEC/latte-ec/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Kenvin/.android/build-cache/fbfe827b7be8bbdf5a59872eeaec567edbd76610/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Kenvin/AndroidStudioProjects/FestEC/latte-ec/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Kenvin/.android/build-cache/fbfe827b7be8bbdf5a59872eeaec567edbd76610/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
