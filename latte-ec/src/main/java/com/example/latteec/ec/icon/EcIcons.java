@@ -6,14 +6,13 @@ import com.joanzapata.iconify.Icon;
  * Created by Kenvin on 2017/9/27.
  */
 
-public enum  ECIcon  implements Icon {
+public enum EcIcons implements Icon{
+    icon_scan('\ue606'),
+    icon_ali_pay('\ue606');
 
-    icon_check('\ue645'),
-    icon_loading('\ue64f');
+    private char character;
 
-    private  char character;
-
-    ECIcon(char character) {
+    EcIcons(char character) {
         this.character = character;
     }
 
@@ -21,8 +20,9 @@ public enum  ECIcon  implements Icon {
     public String key() {
         return name().replace('_', '-');
     }
+
     @Override
-    public  char character() {
+    public char character() {
         return character;
     }
 }

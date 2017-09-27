@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Sep 27 16:09:52 CST 2017
+#Wed Sep 27 18:08:16 CST 2017
 175.set=ANDROID_RESOURCE
 122.file=/Users/Kenvin/AndroidStudioProjects/FestEC/example/build/intermediates/res/resources-debug.ap_/res/layout/notification_template_lines_media.xml
 60.set=ANDROID_RESOURCE

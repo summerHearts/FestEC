@@ -440,6 +440,13 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="app_name">FestEC</string>
+    <string name="fa_500px"></string>
+    <string name="fa_adjust"></string>
+    <string name="fa_adn"></string>
+    <string name="fa_align_center"></string>
+    <string name="fa_align_justify"></string>
+    <string name="fa_align_left"></string>
+    <string name="fa_camera"></string>
     <string name="fa_coffee">{fa-coffee}</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>

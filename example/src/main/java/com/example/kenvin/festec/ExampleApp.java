@@ -3,7 +3,7 @@ package com.example.kenvin.festec;
 import android.app.Application;
 
 import com.example.latte.app.Latte;
-import com.example.latteec.ec.icon.FontECModule;
+import com.example.latteec.ec.icon.FontEcModule;
 import com.joanzapata.iconify.fonts.FontAwesomeModule;
 
 /**
@@ -18,7 +18,7 @@ public class ExampleApp extends Application {
         Latte.init(this)
                 .withApiHost("http:127.0.0.1/")
                 .withIcon(new FontAwesomeModule())
-                .withIcon(new FontECModule())
+                .withIcon(new FontEcModule())
                 .configure();
     }
 }

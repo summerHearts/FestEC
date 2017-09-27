@@ -768,7 +768,14 @@ int string abc_shareactionprovider_share_with 0x7f060010
 int string abc_shareactionprovider_share_with_application 0x7f060011
 int string abc_toolbar_collapse_description 0x7f060012
 int string app_name 0x7f060021
-int string fa_coffee 0x7f060022
+int string fa_500px 0x7f060022
+int string fa_adjust 0x7f060023
+int string fa_adn 0x7f060024
+int string fa_align_center 0x7f060025
+int string fa_align_justify 0x7f060026
+int string fa_align_left 0x7f060027
+int string fa_camera 0x7f060028
+int string fa_coffee 0x7f060029
 int string search_menu_title 0x7f060013
 int string status_bar_notification_info_overflow 0x7f060014
 int style AlertDialog_AppCompat 0x7f08009f

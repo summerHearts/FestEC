@@ -24,6 +24,10 @@ public class Configurator {
         private  static  final  Configurator INSTANCE = new Configurator();
     }
 
+    public static Configurator getInstance() {
+        return  Holder.INSTANCE;
+    }
+
     public  final void configure(){
         initIcons();
         LATTE_CONFIGS.put(ConfigKeys.CONFIG_READY,true);
@@ -33,9 +37,6 @@ public class Configurator {
         return LATTE_CONFIGS;
     }
 
-    public static Configurator getInstance() {
-        return  Holder.INSTANCE;
-    }
 
     public  final  Configurator withApiHost (String  host){
         LATTE_CONFIGS.put(ConfigKeys.API_HOST,host);

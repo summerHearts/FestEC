@@ -8,7 +8,7 @@ import com.joanzapata.iconify.IconFontDescriptor;
  */
 
 
-public class FontECModule implements IconFontDescriptor {
+public class FontEcModule implements IconFontDescriptor {
     @Override
     public String ttfFileName() {
         return "iconfont.ttf";
@@ -16,6 +16,6 @@ public class FontECModule implements IconFontDescriptor {
 
     @Override
     public Icon[] characters() {
-        return ECIcon.values();
+        return EcIcons.values();
     }
 }
