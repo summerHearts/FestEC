@@ -7,8 +7,255 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7edb088f-c2f3-406a-861e-ab2fe52e97bc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/latte-ec/src/main/assets/iconfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/ConfigKeys.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/latte-ec/src/main/java/com/example/latteec/ec/icon/ECIcon.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/latte-ec/src/main/java/com/example/latteec/ec/icon/FontECModule.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl/values-gl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/ConfigType.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_latte-core_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_latte-core_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_latte-core_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_latte-core_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_latte-core_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_latte-core_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_latte-core_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_latte-core_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_latte-ec_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_latte-ec_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_latte-ec_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_latte-ec_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_latte-ec_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_latte-ec_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_latte-ec_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_latte-ec_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/example/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/classes/debug/com/example/kenvin/festec/ExampleApp.class" afterPath="$PROJECT_DIR$/example/build/intermediates/classes/debug/com/example/kenvin/festec/ExampleApp.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/classes/debug/com/example/kenvin/festec/R$id.class" afterPath="$PROJECT_DIR$/example/build/intermediates/classes/debug/com/example/kenvin/festec/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/classes/debug/com/example/kenvin/festec/R$integer.class" afterPath="$PROJECT_DIR$/example/build/intermediates/classes/debug/com/example/kenvin/festec/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/classes/debug/com/example/kenvin/festec/R$layout.class" afterPath="$PROJECT_DIR$/example/build/intermediates/classes/debug/com/example/kenvin/festec/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/classes/debug/com/example/kenvin/festec/R$mipmap.class" afterPath="$PROJECT_DIR$/example/build/intermediates/classes/debug/com/example/kenvin/festec/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/classes/debug/com/example/kenvin/festec/R$string.class" afterPath="$PROJECT_DIR$/example/build/intermediates/classes/debug/com/example/kenvin/festec/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/classes/debug/com/example/kenvin/festec/R$style.class" afterPath="$PROJECT_DIR$/example/build/intermediates/classes/debug/com/example/kenvin/festec/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/classes/debug/com/example/kenvin/festec/R$styleable.class" afterPath="$PROJECT_DIR$/example/build/intermediates/classes/debug/com/example/kenvin/festec/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/classes/debug/com/example/latte/R$id.class" afterPath="$PROJECT_DIR$/example/build/intermediates/classes/debug/com/example/latte/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/classes/debug/com/example/latteec/R$id.class" afterPath="$PROJECT_DIR$/example/build/intermediates/classes/debug/com/example/latteec/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/kenvin/festec/ExampleApp.class" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/kenvin/festec/ExampleApp.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/kenvin/festec/R$id.class" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/kenvin/festec/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/kenvin/festec/R$integer.class" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/kenvin/festec/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/kenvin/festec/R$layout.class" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/kenvin/festec/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/kenvin/festec/R$mipmap.class" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/kenvin/festec/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/kenvin/festec/R$string.class" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/kenvin/festec/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/kenvin/festec/R$style.class" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/kenvin/festec/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/kenvin/festec/R$styleable.class" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/kenvin/festec/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/latte/R$id.class" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/latte/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/latte/app/Configurator$Holder.class" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/latte/app/Configurator$Holder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/latte/app/Configurator.class" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/latte/app/Configurator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/latte/app/Latte.class" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/latte/app/Latte.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/latteec/R$id.class" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental-verifier/debug/com/example/latteec/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/packageDebug/zip-cache/4YgbPSe0J8vTU7BbOYSfhBDvNkA=" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental/packageDebug/zip-cache/4YgbPSe0J8vTU7BbOYSfhBDvNkA=" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/4YgbPSe0J8vTU7BbOYSfhBDvNkA=" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/4YgbPSe0J8vTU7BbOYSfhBDvNkA=" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/example/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/example/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/split-apk/debug/dep/dependencies.apk" afterPath="$PROJECT_DIR$/example/build/intermediates/split-apk/debug/dep/dependencies.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/split-apk/debug/slices/slice_0.apk" afterPath="$PROJECT_DIR$/example/build/intermediates/split-apk/debug/slices/slice_0.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/split-apk/debug/slices/slice_1.apk" afterPath="$PROJECT_DIR$/example/build/intermediates/split-apk/debug/slices/slice_1.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="$PROJECT_DIR$/example/build/intermediates/split-apk/debug/slices/slice_2.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/split-apk/debug/slices/slice_4.apk" afterPath="$PROJECT_DIR$/example/build/intermediates/split-apk/debug/slices/slice_4.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/split-apk/debug/slices/slice_7.apk" afterPath="$PROJECT_DIR$/example/build/intermediates/split-apk/debug/slices/slice_7.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="$PROJECT_DIR$/example/build/intermediates/split-apk/debug/slices/slice_8.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-719144301/com/example/latte/app/Configurator$Holder.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-719144301/com/example/latte/app/Configurator$Holder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-719144301/com/example/latte/app/Configurator.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-719144301/com/example/latte/app/Configurator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-719144301/com/example/latte/app/Latte.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-719144301/com/example/latte/app/Latte.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/kenvin/festec/ExampleApp.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/kenvin/festec/ExampleApp.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/kenvin/festec/R$id.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/kenvin/festec/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/kenvin/festec/R$integer.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/kenvin/festec/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/kenvin/festec/R$layout.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/kenvin/festec/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/kenvin/festec/R$mipmap.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/kenvin/festec/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/kenvin/festec/R$string.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/kenvin/festec/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/kenvin/festec/R$style.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/kenvin/festec/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/kenvin/festec/R$styleable.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/kenvin/festec/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/latte/R$id.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/latte/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/latte/app/Configurator$Holder.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/latte/app/Configurator$Holder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/latte/app/Configurator.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/latte/app/Configurator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/latte/app/Latte.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/latte/app/Latte.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/latteec/R$id.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/latteec/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/example/latteec/R$id.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/example/latteec/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/android/support/v7/appcompat/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/example/latte/R$id.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/example/latte/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/example/latte/app/Configurator$Holder.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/example/latte/app/Configurator$Holder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/example/latte/app/Configurator.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/example/latte/app/Configurator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/example/latte/app/Latte.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/example/latte/app/Latte.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/example/kenvin/festec/ExampleApp.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/example/kenvin/festec/ExampleApp.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/example/kenvin/festec/R$id.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/example/kenvin/festec/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/example/kenvin/festec/R$integer.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/example/kenvin/festec/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/example/kenvin/festec/R$layout.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/example/kenvin/festec/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/example/kenvin/festec/R$mipmap.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/example/kenvin/festec/R$mipmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/example/kenvin/festec/R$string.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/example/kenvin/festec/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/example/kenvin/festec/R$style.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/example/kenvin/festec/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/example/kenvin/festec/R$styleable.class" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/example/kenvin/festec/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/outputs/apk/example-debug.apk" afterPath="$PROJECT_DIR$/example/build/outputs/apk/example-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-core/build/intermediates/bundles/default/classes.jar" afterPath="$PROJECT_DIR$/latte-core/build/intermediates/bundles/default/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-core/build/intermediates/classes/release/com/example/latte/app/Configurator$Holder.class" afterPath="$PROJECT_DIR$/latte-core/build/intermediates/classes/release/com/example/latte/app/Configurator$Holder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-core/build/intermediates/classes/release/com/example/latte/app/Configurator.class" afterPath="$PROJECT_DIR$/latte-core/build/intermediates/classes/release/com/example/latte/app/Configurator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-core/build/intermediates/classes/release/com/example/latte/app/Latte.class" afterPath="$PROJECT_DIR$/latte-core/build/intermediates/classes/release/com/example/latte/app/Latte.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-core/build/outputs/aar/latte-core-release.aar" afterPath="$PROJECT_DIR$/latte-core/build/outputs/aar/latte-core-release.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-ec/build/intermediates/bundles/default/classes.jar" afterPath="$PROJECT_DIR$/latte-ec/build/intermediates/bundles/default/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-ec/build/outputs/aar/latte-ec-release.aar" afterPath="$PROJECT_DIR$/latte-ec/build/outputs/aar/latte-ec-release.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-ec/build/tmp/expandedArchives/classes.jar_45sw4v2pbjaqjc7q23s7bx7mk/com/example/latte/app/Configurator$Holder.class" afterPath="$PROJECT_DIR$/latte-ec/build/tmp/expandedArchives/classes.jar_45sw4v2pbjaqjc7q23s7bx7mk/com/example/latte/app/Configurator$Holder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-ec/build/tmp/expandedArchives/classes.jar_45sw4v2pbjaqjc7q23s7bx7mk/com/example/latte/app/Configurator.class" afterPath="$PROJECT_DIR$/latte-ec/build/tmp/expandedArchives/classes.jar_45sw4v2pbjaqjc7q23s7bx7mk/com/example/latte/app/Configurator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-ec/build/tmp/expandedArchives/classes.jar_45sw4v2pbjaqjc7q23s7bx7mk/com/example/latte/app/Latte.class" afterPath="$PROJECT_DIR$/latte-ec/build/tmp/expandedArchives/classes.jar_45sw4v2pbjaqjc7q23s7bx7mk/com/example/latte/app/Latte.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/example/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/generated/source/r/debug/com/example/kenvin/festec/R.java" afterPath="$PROJECT_DIR$/example/build/generated/source/r/debug/com/example/kenvin/festec/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/generated/source/r/debug/com/example/latte/R.java" afterPath="$PROJECT_DIR$/example/build/generated/source/r/debug/com/example/latte/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/generated/source/r/debug/com/example/latteec/R.java" afterPath="$PROJECT_DIR$/example/build/generated/source/r/debug/com/example/latteec/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/example/build/intermediates/blame/res/debug/multi/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/example/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/example/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/example/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/example/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/example/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/example/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/example/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/example/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/res/merged/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/example/build/intermediates/res/merged/debug/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/example/build/intermediates/res/merged/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/example/build/intermediates/restart-dex/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/example/build/intermediates/symbols/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/buildId.txt" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/buildId.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/buildId.txt" afterPath="$PROJECT_DIR$/example/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/buildId.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/src/main/java/com/example/kenvin/festec/ExampleApp.java" afterPath="$PROJECT_DIR$/example/src/main/java/com/example/kenvin/festec/ExampleApp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/example/src/main/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/example/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-core/build/intermediates/blame/res/release/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/latte-core/build/intermediates/blame/res/release/single/drawable-hdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-core/build/intermediates/blame/res/release/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/latte-core/build/intermediates/blame/res/release/single/drawable-mdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-core/build/intermediates/blame/res/release/single/drawable-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/latte-core/build/intermediates/blame/res/release/single/drawable-xxhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-core/build/intermediates/blame/res/release/single/drawable-xxxhdpi-v4.json" afterPath="$PROJECT_DIR$/latte-core/build/intermediates/blame/res/release/single/drawable-xxxhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-core/build/intermediates/blame/res/release/single/drawable.json" afterPath="$PROJECT_DIR$/latte-core/build/intermediates/blame/res/release/single/drawable.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-core/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/latte-core/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-core/build/intermediates/incremental/mergeReleaseResources/merger.xml" afterPath="$PROJECT_DIR$/latte-core/build/intermediates/incremental/mergeReleaseResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-core/latte-core.iml" afterPath="$PROJECT_DIR$/latte-core/latte-core.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/Configurator.java" afterPath="$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/Configurator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/Latte.java" afterPath="$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/Latte.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-ec/build/intermediates/blame/res/release/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/latte-ec/build/intermediates/blame/res/release/single/drawable-mdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-ec/build/intermediates/blame/res/release/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/latte-ec/build/intermediates/blame/res/release/single/drawable-xhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-ec/build/intermediates/incremental/mergeReleaseAssets/merger.xml" afterPath="$PROJECT_DIR$/latte-ec/build/intermediates/incremental/mergeReleaseAssets/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-ec/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/latte-ec/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latte-ec/build/intermediates/incremental/mergeReleaseResources/merger.xml" afterPath="$PROJECT_DIR$/latte-ec/build/intermediates/incremental/mergeReleaseResources/merger.xml" />
     </list>
     <ignored path="FestEC.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,7 +278,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state />
+        </projects_view>
       </state>
     </system>
   </component>
@@ -40,41 +289,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example/src/main/java/com/example/kenvin/festec/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gradle.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradle.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Latte.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/Latte.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+            <state relative-caret-position="260">
+              <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,38 +301,80 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Configurator.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/src/main/res/layout/activity_main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Configurator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/Configurator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+            <state relative-caret-position="140">
+              <caret line="43" column="38" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#837#838#0" expanded="true" />
-                <element signature="e#873#874#0" expanded="true" />
-                <element signature="e#921#922#0" expanded="true" />
-                <element signature="e#960#961#0" expanded="true" />
-                <element signature="e#1787#1817#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#805#806#0" expanded="true" />
+                <element signature="e#841#842#0" expanded="true" />
+                <element signature="e#1742#1772#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IconFontDescriptor.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.joanzapata.iconify/android-iconify/2.2.2/cd1d2194a780c80dd0ea6a47fec5874390895c9d/android-iconify-2.2.2-sources.jar!/com/joanzapata/iconify/IconFontDescriptor.java">
+      <file leaf-file-name="ConfigKeys.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/ConfigKeys.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+            <state relative-caret-position="280">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExampleApp.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ECIcon.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/latte-ec/src/main/java/com/example/latteec/ec/icon/ECIcon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="19" />
+              <folding>
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/src/main/java/com/example/kenvin/festec/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExampleApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/src/main/java/com/example/kenvin/festec/ExampleApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+            <state relative-caret-position="380">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,32 +382,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/latte-annotations/src/main/java/com/example/MyClass.java">
+      <file leaf-file-name="FontAwesomeModule.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.joanzapata.iconify/android-iconify-fontawesome/2.2.2/a227b2763bb9b8341f2cdc4fd9dc429801ed0b64/android-iconify-fontawesome-2.2.2-sources.jar!/com/joanzapata/iconify/fonts/FontAwesomeModule.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="180">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#236#237#0" expanded="false" />
+                <element signature="e#300#301#0" expanded="false" />
+                <element signature="e#348#349#0" expanded="false" />
+                <element signature="e#396#397#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/latte-core/build.gradle">
+      <file leaf-file-name="FontECModule.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/latte-ec/src/main/java/com/example/latteec/ec/icon/FontECModule.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConfigType.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/ConfigType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="260">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#397#398#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -4374,18 +4635,22 @@
         <option value="$PROJECT_DIR$/example/build.gradle" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/latte-ec/src/main/java/com/example/latteec/ec/icon/ECIcon.java" />
+        <option value="$PROJECT_DIR$/example/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/latte-ec/src/main/java/com/example/latteec/ec/icon/FontECModule.java" />
         <option value="$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/ConfigType.java" />
+        <option value="$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/ConfigKeys.java" />
         <option value="$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/Latte.java" />
-        <option value="$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/Configurator.java" />
         <option value="$PROJECT_DIR$/example/src/main/java/com/example/kenvin/festec/ExampleApp.java" />
+        <option value="$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/Configurator.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1300" />
-    <option name="y" value="23" />
-    <option name="width" value="1758" />
-    <option name="height" value="1031" />
+    <option name="x" value="-1889" />
+    <option name="y" value="118" />
+    <option name="width" value="1483" />
+    <option name="height" value="1098" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -4412,6 +4677,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="latte-ec">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="latte-ec">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -4478,8 +4768,12 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="example" />
+              <option name="myItemId" value="latte-core" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -4492,8 +4786,18 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FestEC" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -4512,6 +4816,20 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="festec" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FestEC" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -4537,20 +4855,24 @@
       <pane id="PackagesPane">
         <subPane />
       </pane>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane />
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="android.project.structure.last.selected" value="latte-core" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="device.picker.selection" value="88ad61e2" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Android通用框架设计与完整电商APP开发/d1nj4n" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/latte-ec/src/main/assets" />
+    </key>
   </component>
   <component name="RunManager" selected="Android App.example">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -4914,6 +5236,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7edb088f-c2f3-406a-861e-ab2fe52e97bc" name="Default" comment="" />
@@ -4940,7 +5265,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1300" y="23" width="1758" height="1031" extended-state="0" />
+    <frame x="-1889" y="118" width="1483" height="1098" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -4948,21 +5273,22 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23767799" sideWeight="0.50233644" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.5024356" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23767799" sideWeight="0.49766356" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23767799" sideWeight="0.496" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.249549" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23767799" sideWeight="0.50233644" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24240655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.289492" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.49756438" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -4993,15 +5319,94 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/Configurator.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/Latte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/Configurator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#1742#1772#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/src/main/java/com/example/kenvin/festec/ExampleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/Latte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/Configurator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#1742#1772#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/src/main/java/com/example/kenvin/festec/ExampleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/example/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="android-designer2">
@@ -5020,7 +5425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5052,7 +5456,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5060,7 +5463,6 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="android-designer2">
@@ -5079,7 +5481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5095,7 +5496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5103,7 +5503,6 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="android-designer2">
@@ -5122,7 +5521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5138,19 +5536,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore" />
@@ -5173,7 +5559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5189,7 +5574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5205,33 +5589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/Latte.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/src/main/java/com/example/kenvin/festec/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/latte-annotations/src/main/java/com/example/MyClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5243,43 +5600,129 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/ConfigType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.joanzapata.iconify/android-iconify/2.2.2/cd1d2194a780c80dd0ea6a47fec5874390895c9d/android-iconify-2.2.2-sources.jar!/com/joanzapata/iconify/IconFontDescriptor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/latte-annotations/src/main/java/com/example/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.joanzapata.iconify/android-iconify-fontawesome/2.2.2/a227b2763bb9b8341f2cdc4fd9dc429801ed0b64/android-iconify-fontawesome-2.2.2-sources.jar!/com/joanzapata/iconify/fonts/FontAwesomeModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#236#237#0" expanded="false" />
+            <element signature="e#300#301#0" expanded="false" />
+            <element signature="e#348#349#0" expanded="false" />
+            <element signature="e#396#397#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/latte-ec/src/main/java/com/example/latteec/ec/icon/FontECModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/ConfigType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="19" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/Configurator.java">
+    <entry file="file://$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/ConfigKeys.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        <state relative-caret-position="280">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/latte-ec/src/main/java/com/example/latteec/ec/icon/ECIcon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/src/main/java/com/example/kenvin/festec/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#837#838#0" expanded="true" />
-            <element signature="e#873#874#0" expanded="true" />
-            <element signature="e#921#922#0" expanded="true" />
-            <element signature="e#960#961#0" expanded="true" />
-            <element signature="e#1787#1817#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/Latte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/example/src/main/java/com/example/kenvin/festec/ExampleApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+        <state relative-caret-position="380">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/latte-core/src/main/java/com/example/latte/app/Configurator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="43" column="38" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#1742#1772#0" expanded="true" />
           </folding>
         </state>
       </provider>

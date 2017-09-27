@@ -3,12 +3,39 @@
 
     <item
         is-multidex="true"
+        jar="/Users/Kenvin/.android/build-cache/a769a6b48285de48bd419cc391755c2cc0b19140/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f71558fd43c0f31c018bd01e950bd6e32aa67dff">
+        <dex dex="/Users/Kenvin/AndroidStudioProjects/FestEC/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_82c1a6bd4ac8070a3bfb73e54074bf94a217576b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/Kenvin/AndroidStudioProjects/FestEC/example/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="/Users/Kenvin/AndroidStudioProjects/FestEC/example/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c96eae32ed891a5cdb9c2794e8455ff5d377e2c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenvin/.android/build-cache/b191ebbd7a6a724d0393991330d779bc97fb28ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af20faf2a6fff6cac01bb9ee4130ee942a29ec22">
+        <dex dex="/Users/Kenvin/AndroidStudioProjects/FestEC/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1758eb1197916b7f756df84e2dc1dce20483418/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kenvin/.android/build-cache/ddfd60165f2cdc36e6f45e06ff58703a7ae12310/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="970b2eadc8805e4e04a9008f97368c7b8cc78651">
+        <dex dex="/Users/Kenvin/AndroidStudioProjects/FestEC/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d39edaf7620676803260fda98b46c0a38e930a76/classes.dex" />
     </item>
     <item
         is-multidex="true"
